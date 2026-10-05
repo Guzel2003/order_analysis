@@ -1,0 +1,3 @@
+order_id,"person_id","order_date","total_amount","currency","payment_method","shipping_method","notes"
+999,2477,"2022-12-31","СЛОМАНО","GBP","klarna","fedex",""
+1000,62,"2024-10-02","abc","USD","google_pay"

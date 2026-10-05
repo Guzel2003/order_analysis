@@ -1,0 +1,3 @@
+2026-10-05 14:57:06,988 - ERROR - Неожиданная ошибка при загрузке файла C:\Users\gabdrahmanovagr\Desktop\Python\проекты\FinalProjPython\order_analysis\data\corrupted_test.csv: Отсутствуют обязательные колонки 'status' или 'total_amount'
+2026-10-05 15:01:32,677 - ERROR - Неожиданная ошибка при загрузке файла C:\Users\gabdrahmanovagr\Desktop\Python\проекты\FinalProjPython\order_analysis\data\corrupted_test.csv: Отсутствуют обязательные колонки 'status' или 'total_amount'
+2026-10-05 15:08:36,883 - ERROR - Ошибка в файле corrupted_test.csv: В файле отсутствует обязательная колонка 'status'. Ожидаемые колонки: ['order_id', 'person_id', 'order_date', 'total_amount', 'currency', 'payment_method', 'shipping_method', 'notes']
